@@ -3,7 +3,7 @@ require("https://raw.githubusercontent.com/EliottmacR/framework_collection/maste
 first_time_launch = true
 
 function _init()
-  castle.print("here")
+  castle_print("here")
 end
 
 function _update()  
