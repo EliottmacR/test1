@@ -7,7 +7,7 @@ function _init()
   -- local game_id = get_id_from_name(game_name)
   -- launch_game(game_id)
   
-  if games then log("yes")  log(games[1].name) end
+  if _games then log("yes")  log(_games[1].name) end
   
   -- log(games[1].name)
 end
