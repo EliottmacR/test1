@@ -1,8 +1,9 @@
 require("https://raw.githubusercontent.com/EliottmacR/framework_collection/master/framework.lua")
+require("https://raw.githubusercontent.com/EliottmacR/framework_collection/master/game_list.lua")
 
 first_time_launch = true
 game_name = "fishing_game"
-game_list = nil
+-- game_list = nil
 
 function _init()
   -- game_list.get_path_from_id()
