@@ -4,6 +4,7 @@ first_time_launch = true
 game_name = "fishing_game"
 
 function _init()
+  get_id_from_name()
   -- local game_id = get_id_from_name(game_name)
   -- launch_game(game_id)
   
