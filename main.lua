@@ -6,7 +6,7 @@ if CASTLE_PREFETCH then
     })
 end
 
-require(link)
+load_game = require(link)
 
 if load_game then print("second") end
 
