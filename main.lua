@@ -1,4 +1,4 @@
-require("https://raw.githubusercontent.com/EliottmacR/framework_collection/master/framework.lua")
+require("https://raw.githubusercontent.com/TRASEVOL-DOG/Collection/master/framework.lua")
 
 first_time_launch = true
 game_name = "fishing_game"
