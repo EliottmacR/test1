@@ -1,4 +1,5 @@
-require("https://raw.githubusercontent.com/EliottmacR/framework_collection/master/framework.lua")
+require("https://raw.githubusercontent.com/EliottmacR/framework_collection/master/game_list.lua")
 
-first_time_launch = true
-game_name = "fishing_game"
+function love.load()
+  load_game("fishing_game")
+end
