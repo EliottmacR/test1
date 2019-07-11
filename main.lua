@@ -1,4 +1,4 @@
-require("https://raw.githubusercontent.com/EliottmacR/framework_collection/master/game_list.lua")
+require("https://raw.githubusercontent.com/TRASEVOL-DOG/Collection/master/framework/game_list.lua")
 
 function love.load()
   load_game("fishing_game")
