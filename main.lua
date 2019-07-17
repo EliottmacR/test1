@@ -9,5 +9,5 @@ end
 load_game = require(link)
 
 function love.update()
-  if load_game and not loaded then load_game("Fishing Game", true) loaded = true end
+  if load_game and not loaded then load_game("shooting_range", true) loaded = true end
 end
